@@ -15,7 +15,7 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: circle-sphere                          # the main title
+title: Circle Sphere                          # the main title
 
 tagline: A blog about study   # it will display as the sub-title
 
